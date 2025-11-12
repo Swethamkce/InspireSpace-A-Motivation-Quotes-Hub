@@ -28,5 +28,5 @@
 
 🎯 Purpose
 
-   # To combine creativity and frontend development into a project that motivates, inspires, and visually impresses users — while showcasing strong UI/UX design and coding skills.
+   ! To combine creativity and frontend development into a project that motivates, inspires, and visually impresses users — while showcasing strong UI/UX design and coding skills.
 
